@@ -33,7 +33,7 @@ As ferramentas e bibliotecas para criar o projeto são (podendo utilizar outras 
 
 ## EndPoints
 
-<h1>API: http://3.141.1.243:3000/
+<h1>API: http://3.141.1.243:3000/</h1>
 
 <table align='center'>
   <thead>
